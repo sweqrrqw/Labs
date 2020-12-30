@@ -45,8 +45,10 @@
                     </ul>
                 </div>
                 <div class="col-8">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus inventore accusamus esse corporis quia, ratione error optio exercitationem voluptas, placeat quidem, ipsam tenetur ducimus hic nesciunt soluta deleniti omnis delectus.
-                    </p>
+                    <form method="post">
+                    <textarea name="feedback" id="feedback" cols="40" rows="5"></textarea><br>
+                        <input type="submit" class="btn btn-dark">
+                    </form>
 
                 </div>
             </div>
@@ -78,7 +80,7 @@
 
         </div>
     </footer>
-
+<?php require 'feedback_action.php' ?>
 
 
 

@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="43b02f55-5582-4de3-b7a5-583e32db9645" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,11 +28,12 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/connect.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="XAMPP PHP 7.2" />
   <component name="ProjectId" id="1iYwMGqNMR0K5GZrrq06MVXpkzw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +51,16 @@
       <recent name="D:\soft\LAB TSI" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="filter.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/filter.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.filter.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,11 +72,28 @@
       <workItem from="1602097784354" duration="3468000" />
       <workItem from="1602101428760" duration="4061000" />
       <workItem from="1602168825531" duration="11842000" />
+      <workItem from="1604354761253" duration="852000" />
+      <workItem from="1604437779976" duration="3689000" />
+      <workItem from="1604441689834" duration="48000" />
+      <workItem from="1609253129679" duration="12538000" />
+      <workItem from="1609340728449" duration="2362000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="203" key="#Inspections" timestamp="1602098051260">
@@ -62,10 +108,46 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="216" y="366" key="#SQL_Dialects/0.0.1680.1050@0.0.1680.1050" timestamp="1602099248319" />
-    <state x="432" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602099524981">
+    <state x="432" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609341942204">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="432" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1602099524981" />
+    <state x="432" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1609341942204" />
+    <state width="1637" height="285" key="GridCell.Tab.0.bottom" timestamp="1609340768418">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1609340768418" />
+    <state width="1637" height="285" key="GridCell.Tab.0.center" timestamp="1609340768417">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1609340768417" />
+    <state width="1637" height="285" key="GridCell.Tab.0.left" timestamp="1609340768417">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1609340768417" />
+    <state width="1637" height="285" key="GridCell.Tab.0.right" timestamp="1609340768417">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1609340768417" />
+    <state width="1637" height="351" key="GridCell.Tab.1.bottom" timestamp="1609269015586">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="351" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1609269015586" />
+    <state width="1637" height="351" key="GridCell.Tab.1.center" timestamp="1609269015586">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="351" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1609269015586" />
+    <state width="1637" height="351" key="GridCell.Tab.1.left" timestamp="1609269015586">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="351" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1609269015586" />
+    <state width="1637" height="351" key="GridCell.Tab.1.right" timestamp="1609269015586">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="351" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1609269015586" />
+    <state x="674" y="448" key="NewPhpFileDialog" timestamp="1604354882047">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="674" y="448" key="NewPhpFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1604354882047" />
     <state x="341" y="170" key="SettingsEditor" timestamp="1602099060890">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
