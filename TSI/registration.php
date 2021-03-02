@@ -6,7 +6,7 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>VolgaCars</title>
 </head>
 
@@ -23,6 +23,7 @@
                     <a class="nav-item nav-link" href="spisok_auto.php">Список автомобилей</a>
                     <a class="nav-item nav-link" href="contacts.php">Контакты</a>
                     <a class="nav-item nav-link active" href="registration.php">Регистрация</a>
+                    <a class="nav-item nav-link" href="Table.php">Таблица</a>
                 </div>
             </div>
         </nav>
@@ -30,8 +31,6 @@
 </div>
 <main>
     <?php
-//    require('connect.php');
- //   $connection= mysqli_connect('localhost', 'Skippa', '', 'lel',3306);
     $connection= new mysqli('localhost','root','','lel')or die("Could not connect to mysql".mysqli_error($connection));
     $select_db = mysqli_select_db($connection , 'lel');
 

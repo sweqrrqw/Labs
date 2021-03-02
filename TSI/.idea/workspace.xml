@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -31,6 +34,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="XAMPP PHP 7.2" />
   <component name="ProjectId" id="1iYwMGqNMR0K5GZrrq06MVXpkzw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,11 +52,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Skippa_mX\Documents\GitHub\Labs\TSI\css" />
       <recent name="D:\soft\LAB TSI" />
     </key>
   </component>
@@ -77,6 +87,8 @@
       <workItem from="1604441689834" duration="48000" />
       <workItem from="1609253129679" duration="12538000" />
       <workItem from="1609340728449" duration="2362000" />
+      <workItem from="1613499811887" duration="2836000" />
+      <workItem from="1614707740586" duration="4970000" />
     </task>
     <servers />
   </component>
@@ -96,22 +108,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="203" key="#Inspections" timestamp="1602098051260">
+    <state x="684" y="282" key="#CLI_Interpreters" timestamp="1613502099194">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="466" y="203" key="#Inspections/0.0.1680.1050@0.0.1680.1050" timestamp="1602098051260" />
-    <state x="547" y="168" key="#PHP" timestamp="1602098305108">
+    <state x="684" y="282" key="#CLI_Interpreters/0.0.1680.1050@0.0.1680.1050" timestamp="1613502099194" />
+    <state x="466" y="203" key="#Inspections" timestamp="1614708427894">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="547" y="168" key="#PHP/0.0.1680.1050@0.0.1680.1050" timestamp="1602098305108" />
-    <state x="216" y="366" key="#SQL_Dialects" timestamp="1602099248319">
+    <state x="466" y="203" key="#Inspections/0.0.1680.1050@0.0.1680.1050" timestamp="1614708427894" />
+    <state x="432" y="183" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614708438790">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="216" y="366" key="#SQL_Dialects/0.0.1680.1050@0.0.1680.1050" timestamp="1602099248319" />
-    <state x="432" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609341942204">
+    <state x="432" y="183" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1614708438790" />
+    <state x="620" y="280" key="FileChooserDialogImpl" timestamp="1613500246347">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="432" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1609341942204" />
+    <state x="620" y="280" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1613500246347" />
     <state width="1637" height="285" key="GridCell.Tab.0.bottom" timestamp="1609355733329">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -144,13 +156,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1637" height="351" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1609269015586" />
-    <state x="674" y="448" key="NewPhpFileDialog" timestamp="1604354882047">
+    <state x="674" y="448" key="NewPhpFileDialog" timestamp="1614709240965">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="674" y="448" key="NewPhpFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1604354882047" />
-    <state x="341" y="170" key="SettingsEditor" timestamp="1602099060890">
+    <state x="674" y="448" key="NewPhpFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1614709240965" />
+    <state x="341" y="170" key="SettingsEditor" timestamp="1613502099807">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="170" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602099060890" />
+    <state x="341" y="170" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1613502099807" />
   </component>
 </project>
